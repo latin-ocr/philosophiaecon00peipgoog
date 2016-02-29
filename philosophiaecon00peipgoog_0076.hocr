@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiaecon00peipgoog_0076.png"; bbox 0 0 642 985; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 340 497 361">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 340 497 361">
+     <span class='ocr_line' id='line_1_1' title="bbox 112 340 497 361; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 112 340 186 361; x_wconf 82' lang='lat' dir='ltr'><strong>AN&#39;IGII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 199 340 283 361; x_wconf 75' lang='lat' dir='ltr'>MANLH</span> <span class='ocrx_word' id='word_1_3' title='bbox 296 340 408 361; x_wconf 76' lang='lat' dir='ltr'><strong>SEVERIM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 420 340 497 361; x_wconf 85' lang='grc' dir='ltr'><strong>ΒΟΕΤΠ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 59 412 548 443">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 59 412 548 443">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 412 548 443; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 59 412 294 443; x_wconf 82' lang='lat' dir='ltr'><strong>PHILOSOPHIAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 308 415 548 443; x_wconf 80' lang='lat' dir='ltr'>GONSOLATIONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 224 501 438 519">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 224 501 438 519">
+     <span class='ocr_line' id='line_1_3' title="bbox 224 501 438 519; baseline -0.005 -3"><span class='ocrx_word' id='word_1_7' title='bbox 224 501 279 516; x_wconf 78' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 291 501 382 519; x_wconf 70' lang='lat' dir='ltr'><strong>QVINQVE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 436 513 438 515; x_wconf 77' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 91 907 235 921">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 91 907 235 921">
+     <span class='ocr_line' id='line_1_4' title="bbox 91 907 235 921; baseline 0.007 -3"><span class='ocrx_word' id='word_1_10' title='bbox 91 907 125 918; x_wconf 60' lang='lat' dir='ltr'><strong>noun</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 132 910 162 918; x_wconf 74' lang='grc' dir='ltr'>ωιιι.</span> <span class='ocrx_word' id='word_1_12' title='bbox 169 908 186 919; x_wconf 69' lang='grc' dir='ltr'><strong>ια,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 194 907 208 918; x_wconf 70' lang='grc' dir='ltr'><strong>Ρ·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 208 907 235 921; x_wconf 54' lang='lat' dir='ltr'><strong>iiii</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
